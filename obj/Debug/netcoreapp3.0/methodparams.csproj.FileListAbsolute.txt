@@ -1,0 +1,11 @@
+C:\csharp\ar\methodparams\bin\Debug\netcoreapp3.0\methodparams.exe
+C:\csharp\ar\methodparams\bin\Debug\netcoreapp3.0\methodparams.deps.json
+C:\csharp\ar\methodparams\bin\Debug\netcoreapp3.0\methodparams.runtimeconfig.json
+C:\csharp\ar\methodparams\bin\Debug\netcoreapp3.0\methodparams.runtimeconfig.dev.json
+C:\csharp\ar\methodparams\bin\Debug\netcoreapp3.0\methodparams.dll
+C:\csharp\ar\methodparams\bin\Debug\netcoreapp3.0\methodparams.pdb
+C:\csharp\ar\methodparams\obj\Debug\netcoreapp3.0\methodparams.csprojAssemblyReference.cache
+C:\csharp\ar\methodparams\obj\Debug\netcoreapp3.0\methodparams.AssemblyInfoInputs.cache
+C:\csharp\ar\methodparams\obj\Debug\netcoreapp3.0\methodparams.AssemblyInfo.cs
+C:\csharp\ar\methodparams\obj\Debug\netcoreapp3.0\methodparams.dll
+C:\csharp\ar\methodparams\obj\Debug\netcoreapp3.0\methodparams.pdb
